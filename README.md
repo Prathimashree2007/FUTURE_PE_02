@@ -144,3 +144,63 @@ FUTURE_PE_02/
 │
 └── social-media/
     └── instagram-post.md
+```
+
+## Prompt Method
+The main reusable prompt follows this structure:
+Product → Target Audience → Problem → Solution/USP → Hooks → Scripts → CTAs → Platform Adaptation
+This structure can be reused for different products or businesses by changing the product information, target audience, problem, USP, platform, and tone.
+Platform Strategy
+
+##Instagram Reels
+The content can use:
+- Strong opening hooks
+- Quick cuts
+- Product demonstrations
+- Text overlays
+- Conversational delivery
+Recommended duration: approximately 20–40 seconds.
+
+##Instagram Ads
+The content should focus on:
+Problem → Product → Benefit → CTA
+Recommended duration: approximately 15–30 seconds.
+
+##YouTube Shorts
+The content can use slightly more storytelling combined with product demonstrations.
+Recommended duration: approximately 25–45 seconds.
+
+##Authenticity Guidelines
+The UGC scripts are designed to feel natural and relatable rather than like traditional polished advertisements.
+The content uses:
+- Conversational language
+- First-person storytelling
+- Short sentences
+- Relatable situations
+- Natural reactions
+- Product demonstrations
+The content avoids:
+- Fake statistics
+- Unsupported claims
+- Unrealistic results
+- Excessive marketing language
+- Overly polished advertising language
+
+##How to Reuse the Prompts
+The prompts can be adapted for another product or business by changing:
+1. Product name
+2. Product category
+3. Target audience
+4. Customer problem
+5. Product USP
+6. Target platform
+7. Desired tone
+The same prompt framework can be used for products such as fitness equipment, skincare products, local businesses, SaaS tools, or other D2C products.
+
+##Disclaimer
+FitFlex Adjustable Dumbbells is used as the selected product concept for this project.
+The UGC scripts are created as advertising concepts. Product specifications and claims should be verified against the actual product information before using the content in a real paid advertising campaign.
+
+## Project Type
+
+**Prompt Engineering | UGC Content Creation | AI-Assisted Marketing | Digital Marketing**
