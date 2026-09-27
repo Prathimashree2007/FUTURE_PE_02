@@ -125,6 +125,8 @@ The prompts provide guidance for adapting the content to:
 
 ## Repository Structure
 
+```Text
+
 FUTURE_PE_02/
 │
 ├── README.md
